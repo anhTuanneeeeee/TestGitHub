@@ -1,0 +1,15 @@
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\bin\Debug\net6.0\ConsoleApp233.exe
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\bin\Debug\net6.0\ConsoleApp233.deps.json
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\bin\Debug\net6.0\ConsoleApp233.runtimeconfig.json
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\bin\Debug\net6.0\ConsoleApp233.dll
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\bin\Debug\net6.0\ConsoleApp233.pdb
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ConsoleApp233.csproj.AssemblyReference.cache
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ConsoleApp233.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ConsoleApp233.AssemblyInfoInputs.cache
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ConsoleApp233.AssemblyInfo.cs
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ConsoleApp233.csproj.CoreCompileInputs.cache
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ConsoleApp233.dll
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\refint\ConsoleApp233.dll
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ConsoleApp233.pdb
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ConsoleApp233.genruntimeconfig.cache
+D:\Basic.net\slot 123\ConsoleApp233\ConsoleApp233\obj\Debug\net6.0\ref\ConsoleApp233.dll
